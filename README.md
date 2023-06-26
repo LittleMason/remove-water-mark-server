@@ -90,3 +90,4 @@
 ## License
 
 [MIT](https://github.com/wyq2214368/laravel-jieba/blob/master/LICENSE)
+<!-- composer config --global github-oauth.github.com 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 -->

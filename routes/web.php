@@ -15,4 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/demo', function () {
+    return 'hello world';
+});
+
 Route::any('test/{action}', 'TestController@index');
